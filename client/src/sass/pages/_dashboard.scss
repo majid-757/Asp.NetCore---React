@@ -1,0 +1,27 @@
+.dashboard {
+  display: flex;
+  flex-direction: column;
+
+  &__header {
+    background: $color-primary;
+    height: 20%;
+    display: flex;
+    align-items: center;
+    padding: 30px;
+    justify-content: space-between;
+
+    @media only screen and (max-width: $bp-medium) {
+      flex-direction: column;
+    }
+
+    & h1 {
+      color: white;
+    }
+  }
+
+  &__courses {
+    & h1 {
+      margin-left: 50px;
+    }
+  }
+}

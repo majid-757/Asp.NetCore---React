@@ -1,0 +1,12 @@
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/bin/Debug/net5.0/Entity.deps.json
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/bin/Debug/net5.0/Entity.dll
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/bin/Debug/net5.0/ref/Entity.dll
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/bin/Debug/net5.0/Entity.pdb
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/obj/Debug/net5.0/Entity.csproj.AssemblyReference.cache
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/obj/Debug/net5.0/Entity.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/obj/Debug/net5.0/Entity.AssemblyInfoInputs.cache
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/obj/Debug/net5.0/Entity.AssemblyInfo.cs
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/obj/Debug/net5.0/Entity.csproj.CoreCompileInputs.cache
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/obj/Debug/net5.0/Entity.dll
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/obj/Debug/net5.0/ref/Entity.dll
+/Users/chirag/Desktop/learnify-modules/learnify/Entity/obj/Debug/net5.0/Entity.pdb

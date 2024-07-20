@@ -1,0 +1,37 @@
+//Font
+$font-primary: 'Lato';
+
+// RESPONSIVE BREAKPOINTS
+$bp-largest: 75em; // 1200px
+$bp-large: 62.5em; // 1000px
+$bp-medium: 50em; // 800px;
+$bp-small: 37.5em; // 600px;
+
+// Colors
+$color-grey-light-1: #f9f7f6;
+$color-grey-light-2: #aaa;
+$color-grey-dark-1: #54483a;
+$color-grey-dark-2: #6d5d4b;
+
+// SHADOW
+
+$shadow-dark: 0 2rem 6rem rgba(0, 0, 0, 0.3);
+$shadow-light: 0 2rem 5rem rgba(0, 0, 0, 0.06);
+
+// COLOR VARIABLES
+$color-secondary-light: #ffcc00;
+$color-secondary-dark: #eb4d55;
+$color-primary: #261e7d;
+$color-primary-dark: #0e0545;
+
+// BORDER
+$border: 1px solid #f4f2f2;
+$border-dark: 2px solid #f4f2f2;
+
+html {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: $font-primary, sans-serif;
+}
